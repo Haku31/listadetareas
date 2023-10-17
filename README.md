@@ -18,7 +18,7 @@ Esta es una aplicación sencilla de Lista de tareas pendientes que te permite re
 Para comenzar con este proyecto, siga estos pasos:
 
 1. Clona este repositorio en tu máquina local usando git clone
-2. Navegue al directorio del proyecto usando cd todo
+2. Navegue al directorio del proyecto usando cd listadetareas
 3. Instale las dependencias necesarias usando npm install
 4. Inicie el servidor de desarrollo usando npm run dev (porque uso vite reaccionar)
 
