@@ -20,7 +20,7 @@ Para comenzar con este proyecto, siga estos pasos:
 1. Clona este repositorio en tu máquina local usando git clone
 2. Navegue al directorio del proyecto usando cd listadetareas
 3. Instale las dependencias necesarias usando npm install
-4. Inicie el servidor de desarrollo usando npm run dev (porque uso vite reaccionar)
+4. Inicie el servidor de desarrollo usando npm run dev (porque uso vite react)
 
 La aplicación ahora debería estar ejecutándose en localhost
 
